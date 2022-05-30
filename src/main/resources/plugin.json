@@ -1,0 +1,8 @@
+{
+  "name": "ConsoleToDiscord",
+  "description": "",
+  "version": "1.0",
+  "authors": ["CamChua_VN"],
+
+  "mainClass": "camchua.consoletodiscord.grasscutter.ConsoleToDiscord"
+}

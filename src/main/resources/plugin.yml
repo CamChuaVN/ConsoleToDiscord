@@ -1,0 +1,4 @@
+name: ConsoleToDiscord
+main: camchua.consoletodiscord.minecraft.ConsoleToDiscord
+version: 1.0
+author: [CamChua_VN]
